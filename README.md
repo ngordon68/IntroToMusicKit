@@ -14,7 +14,7 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 
 
 # Expected Outcome
-<img width="2398" height="1378" alt="image" src="https://github.com/user-attachments/assets/6a918459-fd2c-47fe-969c-47e4765edccf" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6a918459-fd2c-47fe-969c-47e4765edccf" />
 
 
 
