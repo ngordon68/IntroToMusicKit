@@ -1,7 +1,4 @@
 # Getting Started with MusicKit
-
-[Swift Chart Conference Slides](https://docs.google.com/presentation/d/1LGkjZa4aKqXasEaKGJzSvfrTcwMkS9Tj1DljkrkTkAk/edit#slide=id.g7e92ecccc8_1_36)
-
 Today we're going to implement MusicKit to fetch songs from an artist and play the song
 
 # Prior Knowledge/Installation
@@ -10,9 +7,9 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 
 
 # User Story
-- As a millennial with bad spending habits, I would like to see how much I spend
-- As a millennial with bad spending habits, I like to see a breakdown of my spending
-- As a millennial with bad spending habits, I like to see which category I spent the most 
+- As a user, I want to be able to type my favorite arist.
+- As a user, I want to be able to load songs from my favorite artist
+- As a user, I want to be able to a song from my favorite artist
   
 
 
