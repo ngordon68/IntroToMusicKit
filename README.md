@@ -1,7 +1,5 @@
 # Getting Started with MusicKit
 
-# Getting Started with Xcode and SwiftUI
-
 [Swift Chart Conference Slides](https://docs.google.com/presentation/d/1LGkjZa4aKqXasEaKGJzSvfrTcwMkS9Tj1DljkrkTkAk/edit#slide=id.g7e92ecccc8_1_36)
 
 Today we're going to implement MusicKit to fetch songs from an artist and play the song
