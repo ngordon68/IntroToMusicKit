@@ -312,6 +312,9 @@ class ExpenseModel: Identifiable {
 # Resources
 - [Sample Project #1 ](https://developer.apple.com/documentation/musickit/using_musickit_to_integrate_with_apple_music)
 - [Sample Project #2](https://developer.apple.com/documentation/musickit/explore_more_content_with_musickit)
+- [Sample Project #2](https://developer.apple.com/musickit/)
+
+
 
 
 
