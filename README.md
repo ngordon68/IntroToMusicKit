@@ -22,7 +22,7 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
    
 ### Step 1 add Media Library Usage to Capabilities and Info Plist:
 
-<img width="2398" height="1378" alt="image" src="https://github.com/user-attachments/assets/6a918459-fd2c-47fe-969c-47e4765edccf" />
+
 ```
 
 extension Date {
