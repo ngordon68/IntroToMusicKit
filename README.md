@@ -23,10 +23,10 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 
 
    
-### Step 1 Let's begin a model for our expense and expense totals:
+### Step 1 add Media Library Usage to Capabilities and Info Plist:
 
 <img width="2398" height="1378" alt="image" src="https://github.com/user-attachments/assets/47ca3536-2a09-4c71-9c0c-aea07db3d879" />
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/hwth2024/assets/102773701/ac1a14c2-698c-4b9e-a664-f9c9bd611d6a">
+
 
 
 ```
