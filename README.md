@@ -309,14 +309,12 @@ class ExpenseModel: Identifiable {
 >
 > ```
 
+# Stretch Goals
 
 
 # Resources
-
 - [Sample Project #1 ](https://developer.apple.com/documentation/musickit/using_musickit_to_integrate_with_apple_music)
 - [Sample Project #2](https://developer.apple.com/documentation/musickit/explore_more_content_with_musickit)
-- [Benia(good friend/great developer](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADQtd9gBUT-7ZyIaVlitqprHiReWzGIOoRI&keywords=benia%20morgan-ware&origin=RICH_QUERY_SUGGESTION&position=0&searchId=778e2cfd-8784-4931-ae9c-31125442ae19&sid=vNp&spellCorrectionEnabled=false)
 
-- [Linda Lewi)](https://www.linkedin.com/in/linda-lewis-35262333/)
 
 
