@@ -26,7 +26,7 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 # Resources
 - [Sample Project #1 ](https://developer.apple.com/documentation/musickit/using_musickit_to_integrate_with_apple_music)
 - [Sample Project #2](https://developer.apple.com/documentation/musickit/explore_more_content_with_musickit)
-- [Sample Project #2](https://developer.apple.com/musickit/)
+- [MusicKit Documentation](https://developer.apple.com/musickit/)
 
 
 
