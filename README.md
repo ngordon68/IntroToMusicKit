@@ -4,6 +4,7 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 # Prior Knowledge/Installation
  - [Xcode 15.0 or newer](https://developer.apple.com/xcode/) which can be found on the App Store on the Mac
  - Basic knowledge of Swift and SwiftUI
+ - knowledge of Swift Concurrency
 
 
 # User Story
