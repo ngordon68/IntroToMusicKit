@@ -9,6 +9,7 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 # User Story
 - As a user, I want to be able to type my favorite arist.
 - As a user, I want to be able to load songs from my favorite artist
+- Add some logic to check to see if a user has apple music subscription, what should happen if they do not?
 - As a user, I want to be able to a song from my favorite artist
   
 
