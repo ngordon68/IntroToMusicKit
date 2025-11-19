@@ -17,6 +17,9 @@ Today we're going to implement MusicKit to fetch songs from an artist and play t
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/6a918459-fd2c-47fe-969c-47e4765edccf" />
 
 # Stretch Goals
+- Add a loading animation that happens when the fetch songs button is pressed.
+- Add some logic to stop a song
+- Try to fetch a playlist
 
 
 # Resources
